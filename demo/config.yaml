@@ -1,4 +1,4 @@
 # Our default configuration file
 
 site_name: 'Demo site'
-database_uri: 'postgresql://USER:PASSWORD@localhost:5432/aiohttp-demo'
+database_uri: 'postgresql://USER:PASSWORD@localhost:5432/aiohttpdemo'
