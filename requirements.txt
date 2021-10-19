@@ -3,3 +3,5 @@ uvloop
 aiohttp_jinja2
 aioreloader
 pyyaml
+asycnpg
+asyncpgsa
