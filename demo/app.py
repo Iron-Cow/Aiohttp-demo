@@ -12,3 +12,4 @@ def create_app() -> web.Application:
         loader=jinja2.PackageLoader('demo', 'templates')
      )
     return app
+
